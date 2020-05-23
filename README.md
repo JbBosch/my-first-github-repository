@@ -2,3 +2,6 @@
 First github repository.
 New line added and will be commited.
 Eddited README.md Locally here to check merge conflicts when trying to push to Origin. I want this changes to be fixed.
+
+
+This is the final change to README.md from local change 
