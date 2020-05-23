@@ -1,1 +1,2 @@
 Just anothe file named as another-file.txt in feature BR-1 branch.
+\nJust modified another-file.txt in BR-1 branch
